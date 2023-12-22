@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MYHETICBLOG2</title>
+    <link>https://HETIC.github.io/</link>
+    <description>Recent content on MYHETICBLOG2</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Dec 2023 02:59:27 +0100</lastBuildDate>
+    <atom:link href="https://HETIC.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Voici le titre de notre Blog HETIC</title>
+      <link>https://HETIC.github.io/posts/mypost/</link>
+      <pubDate>Fri, 22 Dec 2023 02:59:27 +0100</pubDate>
+      <guid>https://HETIC.github.io/posts/mypost/</guid>
+      <description>voici le contenu de notre premier Blog HETIC</description>
+    </item>
+  </channel>
+</rss>
